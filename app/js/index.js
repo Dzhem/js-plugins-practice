@@ -6,3 +6,5 @@ const myModal = $.modal({
     closable: true,
     width: '400px'
 })
+
+myModal.open()
